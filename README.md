@@ -1,4 +1,4 @@
-# PipeGuard Technologies
+
 <h1 align="center">
   PipeGuard Technologies
   <br>
